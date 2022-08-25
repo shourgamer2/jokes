@@ -1,1 +1,1 @@
-How many Prolog programmers does it take to change a lightbulb? false.
+To understand recursion you must first understand recursion.
